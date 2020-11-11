@@ -1,10 +1,10 @@
 {
-  "name": "@blowstack/ckeditor-nuxt",
+  "name": "@sergor5/ckeditor-nuxt",
   "version": "0.3.4",
   "private": false,
   "author": {
-    "name": "BlowStack",
-    "email": "piotr.golon@gmail.com"
+    "name": "Sergen ORIN",
+    "email": "serg_or5@hotmail.com"
   },
   "keywords": [
     "ckeditor5 nuxt",
@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "@blowstack/ckeditor5-full-free-build": "^23.0.2",
+    "@ckeditor/ckeditor5-build-classic": "^23.1.0",
     "@ckeditor/ckeditor5-vue": "^1.0.3"
   },
   "devDependencies": {
